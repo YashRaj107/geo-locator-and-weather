@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "177814100223",
+    "project_id": "partner-location-21eb1",
+    "storage_bucket": "partner-location-21eb1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177814100223:android:2032793366c6937d1594ca",
+        "android_client_info": {
+          "package_name": "com.example.geo_locator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "177814100223-klt94fp1rsgvooaju4r2dm0mfh240foo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPtfdnxfJtSYB3hvICO6qzddpBcXh1ZI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "177814100223-klt94fp1rsgvooaju4r2dm0mfh240foo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
